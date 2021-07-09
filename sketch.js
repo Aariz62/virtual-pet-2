@@ -34,7 +34,7 @@ function draw() {
   }
 
   milk1.buttons()
-  milk2.milkImg()
+  milk1.milkImg()
   
 }
 
